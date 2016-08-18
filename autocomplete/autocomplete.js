@@ -23,7 +23,7 @@
 // });
 
 //autocomplete('ai', ['airplane','airport','apple','ball']) = ['airplane','airport']
-
+//
 
 function autocomplete(input, dictionary){
 var res = [];
